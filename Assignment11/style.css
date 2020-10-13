@@ -1,0 +1,21 @@
+h1#friends{text-align: center; color: cornsilk; font-family: Kalam; font-size: 55px;}
+span.red{color:red}
+span.yellow{color: yellow;}
+span.blue{color:blue}
+
+body{background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NDw0NDQ8PDQ0NDw0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolGxUVITEhJSkrLi4uFx8/ODMtNygtLisBCgoKDQ0NDw0NDysZFRktLSs3KzctLTctNystNS0rKystKystKzctKysrKysrKystKysrKysrKysrKysrKysrK//AABEIAOEA4QMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAAAAQIHBgP/xAAfEAEBAAMAAgIDAAAAAAAAAAAAAQIxcQOxEYEhQWH/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQMFAgT/xAAYEQEBAQEBAAAAAAAAAAAAAAAAATECEf/aAAwDAQACEQMRAD8A8JhqKmGo07XOR9MAFURUEAAAAUEFAIAACiKAioAAAACoACZ6vK0znq8oOzgOUxcYw1GmcNRp1OcjWCKiioKKgCIKgqgAAqAKICoKCAAAAKgCiAKznq8rTOeryg7OA5TFxjDUaZw1ONOpzkawRUUBUAAAAFFABFQBQBFRQT5BREFQUAAABWc9Xl9Kmeryg7OA5TBxnDU4rOOpxp1JkbQAVRFQQAAABUVBQVAFQABQRUUEAQAUEURRWc9XlVnyav8AZfSDtADl+sHGMNTjTOGpxp1JkbQqKKogAACCoCigCCoAAIAoqKiggqAKgAAgrOeryqmeryqOzgOUxcYx1Gkw1PpXUmRrAEVVRUEFQABRUAEAEUURQVAAUBABAAAAUTyavKrOeryoOzqDlsHGMNTkaTHU5FdSZG0EBRUVBQAQVAUAEVAFAABUAioAAAAAAAM56vK1Wc9XlB2j5EHKYuNY6nFTHU4rqTI1iBRRUVBQAQAFAAAEABRRAABAFRQAAAAZz1eVpnPV5QdoAcpg4zj+lTFXUmRtBJCqoAgoAIACgAAAAAAAAFAVFBAAAAEz1eVpjPV5QdnVFcpi4zFZjTqTGsRUFVRAAAQAFAAAAAKCoqAFBAVFUQAAABnPV5fTTOeryg7QA5TBxmBB1ZjYCgAAAAAAoAgoIoAAKgAAAAAAgAKDPkn4vK0znq8ojtADlMXGYEV1Y2QACKiioAIACgIiKAqgAAAAqAoigAgKioCs56vKrPk1eUHaAHKYOMxUHVjY+BUBUAAAAAAAAAUVAAFBBUAABUFBAAEz1eVWc9XlB2gBymDjKpFdVsIoCAAAIAAAAACqAAAAoIAAAAAAAmeryqmeryg7OA5TFw7xafWA3j0ANVaAaCkUVVID2oAAqCiiAKAKAIgAqlKAioAoz5NXlAHaAHKYP//Z
+    ); background-size: cover;}
+
+p#head{font-size: 18px; font-family: Dosis; color:rosybrown; text-decoration: bold; text-decoration: italic; background-color: black;}
+
+img.four{height:255px; border-width: 10px; border-style: solid; padding: 5px; align-items: center;}
+
+li{font-family: Lora; text-decoration: underline; font-size: 25px; text-align: center;color:cornsilk}
+
+h2#main{font-size: 30px; text-align: center; text-decoration: underline; color:cornsilk}
+
+p.characters{font-size: 16px; font-family:Merriweather; color:greenyellow;}
+
+img#reunion{border-width: 12px; border-style: solid; height:700px; padding: 2px; }
+
+div.img{text-align: center;}
