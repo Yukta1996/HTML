@@ -1,0 +1,9 @@
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSZwBcoo-iwY8zEsa3cDI-AAN6QWqCOezdgg&usqp=CAU);
+background-size: cover;}
+h1{text-decoration: underline; text-align: center; font-size: 35px;}
+h2{text-decoration: underline; text-align: center; font-size: 30px;}
+img.photo{height:200px; width: 350px; border-style: solid; border-width: 5px; padding: 5px;}
+div{text-align: center;}
+p{font-size: 20px;}
+ol{font-size: 20px;}
+ul{font-size: 20px;}
