@@ -1,0 +1,19 @@
+h1{text-align: center;}
+div.main{height:42px; background-color: black; color: whitesmoke; margin-left:10%; margin-right: 10%; 
+       padding-top: 0.1px; padding-bottom: 14px; padding-left: 3px; text-indent: 30px;}
+img{border-width:8px ; border-style: solid; border-color: black;}
+a{text-decoration: none; color:whitesmoke}
+
+h3{text-align: center; font-weight: 700; word-spacing: 15px;}
+h3.head{text-align: left;}
+div.hello{background-color:black;color:whitesmoke; margin-left: 10%; margin-right: 10%; 
+          height: 120px;text-indent: 5px; text-align: center; padding-top: 20px;padding-left: 25px;
+          padding-bottom: 30px; font-size: 20px; }
+div#image{text-align: center; background-color: black; margin-left: 10%; margin-right: 10%; margin-bottom: 2%;}
+div.about{background-color: black; color:whitesmoke; margin-left: 10%; margin-right: 10%; height: 150px;
+        font-size: 20px ; padding-left: 10px; }
+div.languages{background-color:black; color:whitesmoke; margin-left: 10%; margin-right: 10%; height:100px;
+        padding-bottom: 20px;padding-left: 20px;padding-right: 20px;}
+a#myportfolio{ color: black;text-decoration: none;border: 1px solid black;padding: 2%;font-size: 15px;
+        background-color: white;}
+h3.about{text-decoration: underline;}
