@@ -1,0 +1,20 @@
+div#form:hover{background-image: url(https://th.bing.com/th/id/OIP.P9Nw_HxKNIa8S_wxdjbF5AHaEK?w=333&h=187&c=7&o=5&pid=1.7);
+    background-size: cover;}
+img{height:150px; float:left;}
+div.main{background-color: lavender;}
+div.main:hover{background-color: lightsteelblue;}
+h1{line-height: 50px;padding-left: 500px; text-decoration: underline;}
+h1:hover{font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h2{ line-height: 50px; padding-left: 300px; text-decoration: underline;}
+h2:hover{font-family: sans-serif;}
+label{color:blueviolet}
+label:hover{background-color: yellow; color:black;}
+input{border-color: tomato;} 
+label:focus{background-color: white; color: darkred; border-color: deeppink;}
+input:hover{background-color: lightgoldenrodyellow;border-color: darkslateblue;}
+div.main-head{margin-left: 5%;margin-right: 5%; }
+form{text-align: center;}
+input.submit{border-color: black;}
+input.submit:hover{background-color: blanchedalmond;}
+option{background-color: lightgrey;}
+select{background-color: lavenderblush;}
