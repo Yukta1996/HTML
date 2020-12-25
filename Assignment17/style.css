@@ -1,0 +1,45 @@
+img{height:250px;width:300px; border-style: solid; border-width: 5px;border-color: black;}
+h1{font-family: Texturina, serif;text-align: center;text-decoration: underline;position: sticky;z-index: 2;top:5px;
+    background-size: cover;margin-right: 25%;margin-left: 25%;}
+h2{font-family: Changa, sans-serif;text-decoration: underline;position: absolute;left:450px; }
+p{font-family: Lora, serif; position: absolute;left:450px; font-size: 18px;}
+
+img:hover{height:300px;width:380px;}
+div{color:white}
+div:hover{color:black;}
+/* p:hover{color: black;}
+h2:hover{color: black;}  */
+
+span.purple{color:purple;}
+span.pink{color:palevioletred;}
+span.red{color:red;}
+span.yellow{color:green;}
+span.purple:hover{color:green;}
+span.pink:hover{color:red;}
+span.red:hover{color:palevioletred;}
+span.yellow:hover{color:purple;}
+
+h2#first{position:absolute;top:85px;}
+h2#second{position:absolute;top:185;}
+h2#third{position:absolute;top:285;}
+h2#forth{position:absolute;top:385;}
+h2#fifth{position:absolute;top:485;}
+h2#sixth{position:absolute;top:585;}
+h2#seventh{position:absolute;top:685;}
+h2#eighth{position:absolute;top:785;}
+h2#ninth{position:absolute;top:885;}
+h2#tenth{position:absolute;top:985;}
+
+p.one{position:absolute;top:140px;}
+p.two{position:absolute;top:450px;}
+p.three{position:absolute;top:730px;}
+p.four{position:absolute;top:1010px;}
+p.five{position:absolute;top:1290px;}
+p.six{position:absolute;top:1580px;}
+p.seven{position:absolute;top:1850px;}
+p.eight{position:absolute;top:2140px;}
+p.nine{position:absolute;top:2430px;}
+p.ten{position:absolute;top:2700px;}  
+
+.mail button{position:fixed; bottom:20px ;right: 25px;z-index: 1; border-color: transparent;border-radius: 50%;
+    border-style: solid;font-size: 45px;}
