@@ -1,0 +1,198 @@
+body{background-color: black;}
+h1{color:white;text-align: center;text-decoration: underline;}
+img.wreath{height:200px;position:absolute;top:5px;left:5px;}
+img.wreath1{height:200px;position:absolute;top:5px;right:5px;}
+img.wreath2{height:200px;position:absolute;top:5px;left:200px;}
+img.tree{position:absolute;bottom:0px;left:5px; height:450px;}
+/* left side */
+img.snow{position: absolute;bottom:100px;left:8px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:80px; }
+img.snow1{position: absolute;bottom:170px;left:5px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:150px;}
+img.snow2{position: absolute;bottom:230px;left:21px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:210px;}
+img.snow3{position: absolute;bottom:320px;left:8px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:300px;}
+img.snow4{position: absolute;bottom:280px;left:40px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:260px;}
+img.snow5{position: absolute;bottom:370px;left:55px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:350px;}
+img.snow6{position: absolute;bottom:320px;left:65px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:300px;}
+img.snow7{position: absolute;bottom:200px;left:65px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:180px;}
+img.snow8{position: absolute;bottom:410px;left:100px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:390px;;}
+
+/* right side */
+img.snow9{position: absolute;bottom:80px;left:400px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow10{position: absolute;bottom:120px;left:350px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow11{position: absolute;bottom:200px;left:320px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow13{position: absolute;bottom:320px;left:380px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow14{position: absolute;bottom:280px;left:310px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow15{position: absolute;bottom:370px;left:280px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow16{position: absolute;bottom:320px;left:250px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow17{position: absolute;bottom:250px;left:380px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow18{position: absolute;bottom:410px;left:200px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow19{position: absolute;bottom:160px;left:380px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+}
+
+/* right side hover */
+img.snow9:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow10:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow11:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow13:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow14:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow15:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow16:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow17:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow18:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+
+
+/* left side hover */
+img.snow:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:80px; }
+img.snow1:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:150px;}
+img.snow2:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:210px;}
+img.snow3:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:300px;}
+img.snow4:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:260px;}
+img.snow5:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:350px;}
+img.snow6:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:300px;}
+img.snow7:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:180px;}
+img.snow8:hover{transition-duration: 1000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+position: absolute;bottom:390px;}
+
+
+img.sleigh{position: absolute;left:410px;top:160px;}
+img.sleigh:hover{position: absolute;left:1250px;top:160px;transition-duration: 7000ms; 
+            transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.santa{position: absolute;left:360px;top:210px;}
+
+
+
+img.snow20{position: absolute;top:100px;right:328px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:80px; }
+img.snow21{position: absolute;top:230px;left:545px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;bottom:150px;}
+img.snow22{position: absolute;top:430px;left:421px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:210px;}
+img.snow23{position: absolute;top:320px;right:380px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:300px;}
+img.snow24{position: absolute;top:280px;right:40px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:260px;}
+img.snow25{position: absolute;top:20px;right:805px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:350px;}
+img.snow26{position: absolute;top:220px;right:605px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:300px;}
+img.snow27{position: absolute;top:180px;right:650px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:180px;}
+
+
+
+
+
+ img.snow28{position: absolute;top:210px;right:130px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:390px;;}
+
+img.snow29{position: absolute;top:80px;right:120px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow30{position: absolute;top:120px;right:190px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow31{position: absolute;top:50px;right:240px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow33{position: absolute;top:180px;right:200px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow34{position: absolute;top:30px;right:430px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow35{position: absolute;top:120px;right:250px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow36{position: absolute;top:130px;right:420px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow37{position: absolute;top:140px;right:260px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow38{position: absolute;top:150px;right:410px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow39{position: absolute;top:160px;right:270px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+}
+img.snow40{position: absolute;top:170px;right:270px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:80px; }
+img.snow41{position: absolute;top:5px;right:150px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:150px;}
+img.snow42{position: absolute;top:190px;right:280px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:210px;}
+img.snow43{position: absolute;top:200px;right:890px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:300px;}
+img.snow44{position: absolute;top:110px;right:490px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:260px;}
+img.snow45{position: absolute;top:55px;right:510px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:350px;}
+img.snow46{position: absolute;top:80px;right:650px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:300px;}
+img.snow47{position: absolute;top:70px;right:450px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:180px;}
+img.snow48{position: absolute;top:40px;right:870px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);
+    position: absolute;top:390px;;}
+
+img.snow49{position: absolute;top:80px;right:810px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow50{position: absolute;top:120px;right:740px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow51{position: absolute;top:125px;right:690px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow53{position: absolute;top:105px;right:560px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow54{position: absolute;top:180px;right:760px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow55{position: absolute;top:130px;right:px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow56{position: absolute;top:20px;right:px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow57{position: absolute;top:70px;right:px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(1800deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow58{position: absolute;top:110px;right:715px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);}
+img.snow59{position: absolute;top:180px;right:815px;height:20px;border-radius: 50%;border-style: solid;border-width: 2px;
+    transition-duration: 3000ms; transform: rotate(360deg);transition-timing-function: cubic-bezier(0, 0, 0.16, 0.6);} 
