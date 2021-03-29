@@ -1,0 +1,9 @@
+body{background-image: url(https://papers.co/wallpaper/papers.co-mo23-eye-of-space-star-galaxy-dark-flare-35-3840x2160-4k-wallpaper.jpg
+    ); background-size: cover;}
+header{color: white; font-size: xx-large; text-align: center; margin-top: 20px ;}
+div#main{position:absolute;margin-left: 40%;margin-top: 16%;}
+img.sun{border-radius: 99%; height:200px;}
+a{text-decoration: none;}
+h1{color:rgb(205, 197, 253);text-decoration: none;text-align:center; font-size: x-large;}
+div#sub1{position: absolute;margin-top: 14%; margin-left: 29%;}
+img.mercury{height:100px; border-radius: 90%;}
